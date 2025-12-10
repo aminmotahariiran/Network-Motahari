@@ -25,6 +25,4 @@ https://drive.google.com/file/d/1A3h7_QENIh-p5ta3SBg-5X0U1iTs-xvN/view?usp=drive
 
 #ترجمه مقاله پنجم
 
-#پیلده سازی
 
-https://drive.google.com/file/d/1UE4MiIRBHfAC17Mg5pZc0pXuLxor2pPu/view?usp=drivesdk
