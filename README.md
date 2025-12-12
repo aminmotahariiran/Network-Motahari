@@ -4,6 +4,7 @@
 https://drive.google.com/file/d/1-MMeiDrHCcqKnRBPLtI82q9OLiYXvpHy/view?usp=drivesdk
 
 #ترجمه مقاله اول
+https://drive.google.com/drive/folders/1yOMl6LqS37ge_UzkyFdJHnNgK4QRw99a
 
 #[مقاله دوم]
 https://drive.google.com/file/d/17a2w64RG8GrQGOn_bFs8NnJ4BOuQ76XO/view?usp=drivesdk
