@@ -11,6 +11,7 @@ https://drive.google.com/file/d/17a2w64RG8GrQGOn_bFs8NnJ4BOuQ76XO/view?usp=drive
 
 #ترجمه مقاله دوم
 https://drive.google.com/file/d/17A7eiMJ2-dHZ_8gQqz-RFDUGp1uW_D-w/view?usp=sharing
+
 #[مقاله سوم] 
 https://drive.google.com/file/d/1RBVzzhvxkBnuy0QAH7_iVd_3wshVrnuk/view?usp=drivesdk
 
