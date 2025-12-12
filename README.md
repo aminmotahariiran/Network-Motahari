@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1yOMl6LqS37ge_UzkyFdJHnNgK4QRw99a
 https://drive.google.com/file/d/1S7zuoY_l8RhCSnt9Pca8bPNXNsIuSLDo/view?usp=drivesdk
 
 #ترجمه مقاله چهارم 
-
+https://drive.google.com/drive/folders/1yOMl6LqS37ge_UzkyFdJHnNgK4QRw99a
 
 #[مقاله پنجم]
 https://drive.google.com/file/d/1A3h7_QENIh-p5ta3SBg-5X0U1iTs-xvN/view?usp=drivesdk
