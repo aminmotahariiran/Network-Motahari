@@ -1,7 +1,10 @@
 # Network-Motahari
 
-#[مقاله اول]
 
+#پیاده سازی پروژه
+https://github.com/aminmotahariiran/Network-Motahari/blob/main/ton_iot-F1-F3.ipynb
+
+#[مقاله اول]
 https://drive.google.com/file/d/1-MMeiDrHCcqKnRBPLtI82q9OLiYXvpHy/view?usp=drivesdk
 
 #ترجمه مقاله اول
@@ -32,5 +35,3 @@ https://drive.google.com/file/d/1A3h7_QENIh-p5ta3SBg-5X0U1iTs-xvN/view?usp=drive
 https://drive.google.com/file/d/10GjSQ7hrk3l_0uyIZ4NHgGMIS1FDyM-l/view?usp=sharing
 
 
-#پیاده سازی پروژه
-https://github.com/aminmotahariiran/Network-Motahari/blob/main/ton_iot-F1-F3.ipynb
