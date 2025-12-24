@@ -1,9 +1,8 @@
 # Network-Motahari
 
-
 #پیاده سازی پروژه
-https://github.com/aminmotahariiran/Network-Motahari/blob/main/ton_iot-F1-F3.ipynb
 
+https://github.com/aminmotahariiran/Network-Motahari/blob/6317e66452487c30a238ad9f71a49442ca9de71c/Amin_Project.ipynb
 #[مقاله اول]
 https://drive.google.com/file/d/1-MMeiDrHCcqKnRBPLtI82q9OLiYXvpHy/view?usp=drivesdk
 
